@@ -38,7 +38,7 @@ To-Do-List/
 
 ## 📸 Project Preview
 
-![To-Do List Screenshot](Screenshot 2026-08-22 080252.png)
+![To-Do List Screenshot](todo.png)
 
 
 ## 🎯 Learning Outcome
