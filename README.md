@@ -35,7 +35,7 @@ To-Do-List/
 3. Open `index.html` in your browser.
 4. Start adding and managing your tasks.
 
-## 📸 Project Preview
+
 ## 📸 Project Preview
 
 ![To-Do List Screenshot](Screenshot 2026-08-22 080252.png)
