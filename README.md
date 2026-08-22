@@ -35,10 +35,9 @@ To-Do-List/
 3. Open `index.html` in your browser.
 4. Start adding and managing your tasks.
 
-
 ## 📸 Project Preview
 
-![To-Do List Screenshot](todo.png)
+![To-Do List Screenshot](https://github.com/Jyothipushya/JavaScript-Projects/raw/main/todo.png)
 
 
 ## 🎯 Learning Outcome
