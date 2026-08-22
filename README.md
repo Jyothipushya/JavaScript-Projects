@@ -36,6 +36,9 @@ To-Do-List/
 4. Start adding and managing your tasks.
 
 ## 📸 Project Preview
+## 📸 Project Preview
+
+![To-Do List Screenshot](Screenshot 2026-08-22 080252.png)
 
 
 ## 🎯 Learning Outcome
