@@ -37,7 +37,7 @@ To-Do-List/
 
 ## 📸 Project Preview
 
-![To-Do List Screenshot](https://github.com/Jyothipushya/JavaScript-Projects/raw/main/todo.png)
+![To-Do List Screenshot](https://github.com/Jyothipushya/JavaScript-Projects/raw/main/todo.png.png)
 
 
 ## 🎯 Learning Outcome
